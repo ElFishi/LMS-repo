@@ -9,8 +9,15 @@
       <url>https://github.com/ElFishi/LMS-YouTubeDL/releases/download/2.test/YouTubeDL-0.2.test.zip</url>
       <link>https://github.com/ElFishi/LMS-YouTubeDL</link>
       <creator>ElFishi</creator>
-      <desc lang="EN">Companion plugin to Philippe's YouTube to provide download endpoint in json-rpc</desc>
+      <desc lang="EN">Provides endpoint in json-rpc to download YouTube music</desc>
       <title lang="EN">YouTubeDL</title>
     </plugin>
+    <plugin version="0.7.0.test" name="MQTTEvents" minTarget="7.5" maxTarget="*">
+      <sha>32cb696cffb8c63d48bf6800716ea2b990fb0a03</sha>
+      <url>https://github.com/ElFishi/LMS-MQTTEvents/releases/download/0.test/MQTTEvents-0.7.0.test.zip</url>
+      <link>https://github.com/ElFishi/LMS-MQQEvents</link>
+      <creator>ElFishi</creator>
+      <desc lang="EN">Publish player power and volume events to MQTT</desc>
+      <title lang="EN">MQTTEvents</title>
   </plugins>
 </extensions>
