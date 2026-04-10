@@ -4,9 +4,9 @@
     <title lang="EN">ElFishi Custom LMS Plugins</title>
   </details>
   <plugins>
-    <plugin version="0.2.test" name="YouTubeDL" minTarget="7.5" maxTarget="*">
-      <sha>c397b452c1a530c67b9d5ac283e00abdf42c5e0b</sha>
-      <url>https://github.com/ElFishi/LMS-YouTubeDL/releases/download/2.test/YouTubeDL-0.2.test.zip</url>
+    <plugin version="0.0.1" name="YouTubeDL" minTarget="7.5" maxTarget="*">
+      <sha>edcc21f2ee08abbef983ad03af2f2f85acb65a42</sha>
+      <url>https://github.com/ElFishi/LMS-YouTubeDL/releases/download/0.1/YouTubeDL-0.0.1.zip</url>
       <link>https://github.com/ElFishi/LMS-YouTubeDL</link>
       <creator>ElFishi</creator>
       <desc lang="EN">Provides endpoint in json-rpc to download YouTube music</desc>
